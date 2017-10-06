@@ -1,4 +1,4 @@
-# :sunglasses::sunglasses::sunglasses: StaticEventAttendance :sunglasses::sunglasses::sunglasses:
+# :sunglasses::sunglasses::sunglasses: Static Event Attendance :sunglasses::sunglasses::sunglasses:
 _Static Event Attendance with realtime records listing using jQuery AJAX_
 
 ### Users
