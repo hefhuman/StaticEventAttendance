@@ -1,4 +1,4 @@
-# StaticEventAttendance :sunglasses:
+# :sunglasses::sunglasses::sunglasses:StaticEventAttendance :sunglasses::sunglasses::sunglasses:
 _Static Event Attendance with realtime records listing using jQuery AJAX_
 
 ### Users
@@ -14,4 +14,4 @@ _Static Event Attendance with realtime records listing using jQuery AJAX_
 * Requires a random codes to add to the database, generate [codes here](http://www.generaterandomcodes.com/free-generate-random-codes-tool)
 
 
-_**Student Work!:mortar_board:** "The best way to learn is to get involve and apply!"_ <img src=https://i.imgur.com/Gs4Mc7E.jpg width="75px">
+_**Student Work!:mortar_board::mortar_board::mortar_board:** "The best way to learn is to get involve and apply!"_ <img src=https://i.imgur.com/Gs4Mc7E.jpg width="75px">
