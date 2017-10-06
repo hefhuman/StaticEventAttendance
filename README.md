@@ -1,4 +1,4 @@
-# StaticEventAttendance B)
+# StaticEventAttendance :)
 _Static Event Attendance with realtime records listing using jQuery AJAX_
 
 ### Users
