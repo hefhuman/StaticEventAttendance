@@ -6,8 +6,8 @@ _Static Event Attendance with realtime records listing using jQuery AJAX_
 
 ### User inputs
 * Student ID :student:
-* Student Name :person:
-* Student Code :code:
+* Student Name :human:
+* Student Code :binary_code:
 * Student Course :computer:
 
 ### Note
