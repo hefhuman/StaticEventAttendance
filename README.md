@@ -11,6 +11,7 @@ _Static Event Attendance with realtime records listing using jQuery AJAX_
 * Student Course
 
 ### Note
+* I used XAMPP
 * Requires a random codes to add to the database, generate [codes here](http://www.generaterandomcodes.com/free-generate-random-codes-tool)
 
 
