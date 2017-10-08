@@ -5,10 +5,10 @@ _Static Event Attendance with realtime records listing using jQuery AJAX_
 * Students
 
 ### User inputs
-* Student ID
-* Student Name
-* Student Code
-* Student Course
+* Student ID :student:
+* Student Name :person:
+* Student Code :code:
+* Student Course :computer:
 
 ### Note
 * I used XAMPP
